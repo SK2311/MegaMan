@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg254"
+   width="4354"
+   height="1202"
+   viewBox="0 0 4354 1202"
+   sodipodi:docname="Level_Ladder.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs258" />
+  <sodipodi:namedview
+     id="namedview256"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.34689483"
+     inkscape:cx="3538.5365"
+     inkscape:cy="758.15486"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g260" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g260">
+    <image
+       width="4354"
+       height="1202"
+       preserveAspectRatio="none"
+       xlink:href="Ladders_BW.png"
+       id="image262" />
+    <path
+       style="fill:#000000"
+       d="M 3361,193 V 65 h 16 v 128 z"
+       id="path507" />
+    <path
+       style="fill:#000000"
+       d="M 2849,433 V 193 h 16 v 240 z"
+       id="path505" />
+    <path
+       style="fill:#000000"
+       d="M 3040,545 V 321 h 19 v 224 z"
+       id="path503" />
+    <path
+       style="fill:#000000"
+       d="M 2577,673 V 545 h 16 v 128 z"
+       id="path501" />
+    <path
+       style="fill:#000000"
+       d="M 4225,721 V 161 h 16 v 560 z"
+       id="path499" />
+    <path
+       style="fill:#000000"
+       d="M 1569,785 V 673 h 16 v 112 z"
+       id="path497" />
+    <path
+       style="fill:#000000"
+       d="M 1663,913 V 785 h 19 v 128 z"
+       id="path495" />
+    <path
+       style="fill:#000000"
+       d="M 1759,1025 V 849 h 20 v 176 z"
+       id="path264" />
+  </g>
+</svg>
