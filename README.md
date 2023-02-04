@@ -11,6 +11,6 @@ The project was made with an SDL framework made by my teachers.
 While making this project, the main things that I learned were:
 * How to make a camera from scratch
 * How to animate sprites using code
-* How to collision checks on SVG's
+* How to do collision checks using SVG’s
 
 ![alt text](https://github.com/SK2311/MegaMan/blob/main/Images/2.JPG)
